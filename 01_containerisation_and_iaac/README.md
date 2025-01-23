@@ -75,4 +75,4 @@ It also provides a much faster experience when using Docker. Without WSL 2, just
         ```
 1. Create a file pipeline.py
 1. In terminal `docker build -t test:pandas .`
-1. In terminal `docker run -it test:pandas`
+1. In terminal `docker run -it test:pandas 2024-01-01`
